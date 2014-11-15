@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>710</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2012, Appaji Ambarisha Darbha, Hyderabad, INDIA.</string>
+  <string>Copyright (c) 2011 Silicon Andhra</string>
   <key>descender</key>
   <integer>-310</integer>
   <key>familyName</key>
@@ -30,21 +30,19 @@
   <key>openTypeNameDesignerURL</key>
   <string></string>
   <key>openTypeNameLicense</key>
-  <string>GNU General Public License 2.0</string>
+  <string>SIL Open Font License v1.1</string>
   <key>openTypeNameLicenseURL</key>
-  <string>http://www.gnu.org/copyleft/gpl.html</string>
+  <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
   <string>Appaji Ambarisha Darbha</string>
   <key>openTypeNameManufacturerURL</key>
   <string></string>
-  <key>openTypeNameDescription</key>
-  <string>Copyright (c) 2012 by Appaji Ambarisha Darbha. All rights reserved.</string>
   <key>openTypeNameSampleText</key>
   <string></string>
   <key>openTypeNameUniqueID</key>
   <string></string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.00 August 11, 2013, initial release</string>
+  <string>Version 1.0.4</string>
   <key>openTypeOS2FamilyClass</key>
   <array>
     <integer>0</integer>
@@ -158,8 +156,6 @@
   <string>regular</string>
   <key>styleName</key>
   <string>Regular</string>
-  <key>trademark</key>
-  <string>Ponnala is a trademark of Appaji Ambarisha Darbha.</string>
   <key>unitsPerEm</key>
   <integer>1024</integer>
   <key>versionMajor</key>
