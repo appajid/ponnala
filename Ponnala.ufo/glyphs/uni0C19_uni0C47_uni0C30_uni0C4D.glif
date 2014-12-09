@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0C19_uni0C47_uni0C30_uni0C4D" format="1">
+  <advance width="636"/>
+  <outline>
+    <contour>
+      <point x="480" y="362" type="line"/>
+      <point x="480" y="362"/>
+      <point x="293" y="362" type="qcurve"/>
+      <point x="290" y="347"/>
+      <point x="284" y="338" type="qcurve"/>
+      <point x="269" y="314"/>
+      <point x="214" y="294" type="qcurve"/>
+      <point x="158" y="273"/>
+      <point x="147" y="266" type="qcurve"/>
+      <point x="123" y="251"/>
+      <point x="123" y="225" type="qcurve"/>
+      <point x="123" y="160"/>
+      <point x="217" y="160" type="qcurve"/>
+      <point x="245" y="160"/>
+      <point x="287" y="203"/>
+      <point x="287" y="231" type="qcurve" name="hr01"/>
+      <point x="287" y="241"/>
+      <point x="282" y="253" type="qcurve"/>
+      <point x="321" y="253" type="line"/>
+      <point x="315" y="218"/>
+      <point x="337" y="189" type="qcurve"/>
+      <point x="360" y="160"/>
+      <point x="395" y="160" type="qcurve"/>
+      <point x="440" y="160"/>
+      <point x="479" y="194"/>
+      <point x="479" y="233" type="qcurve"/>
+      <point x="479" y="262"/>
+      <point x="434" y="279" type="qcurve"/>
+      <point x="448" y="285"/>
+      <point x="461" y="285" type="qcurve"/>
+      <point x="498" y="285"/>
+      <point x="527" y="246" type="qcurve"/>
+      <point x="552" y="211"/>
+      <point x="552" y="171" type="qcurve"/>
+      <point x="552" y="82"/>
+      <point x="494" y="33" type="qcurve"/>
+      <point x="441" y="3" type="line"/>
+      <point x="405" y="-19"/>
+      <point x="398" y="-41" type="qcurve"/>
+      <point x="391" y="-15"/>
+      <point x="366" y="2" type="qcurve"/>
+      <point x="360" y="6"/>
+      <point x="330" y="26"/>
+      <point x="315" y="37"/>
+      <point x="297" y="55"/>
+      <point x="293" y="63" type="qcurve"/>
+      <point x="278" y="40"/>
+      <point x="261" y="28" type="qcurve"/>
+      <point x="211" y="1" type="line"/>
+      <point x="179" y="-16"/>
+      <point x="171" y="-41" type="qcurve"/>
+      <point x="163" y="-18"/>
+      <point x="124" y="1" type="qcurve"/>
+      <point x="65" y="29" type="line"/>
+      <point x="0" y="73"/>
+      <point x="0" y="170" type="qcurve"/>
+      <point x="0" y="274"/>
+      <point x="98" y="304" type="qcurve"/>
+      <point x="195" y="333"/>
+      <point x="201" y="337" type="qcurve"/>
+      <point x="236" y="354"/>
+      <point x="236" y="384" type="qcurve"/>
+      <point x="236" y="447"/>
+      <point x="179" y="447" type="qcurve"/>
+      <point x="130" y="447"/>
+      <point x="130" y="394" type="qcurve" name="hr02"/>
+      <point x="130" y="370"/>
+      <point x="150" y="370" type="qcurve"/>
+      <point x="160" y="370"/>
+      <point x="162" y="378" type="qcurve"/>
+      <point x="178" y="378" type="line"/>
+      <point x="178" y="378"/>
+      <point x="178" y="353" type="qcurve" name="hr03"/>
+      <point x="178" y="353"/>
+      <point x="29" y="353" type="qcurve"/>
+      <point x="29" y="420"/>
+      <point x="76" y="458" type="qcurve"/>
+      <point x="115" y="490"/>
+      <point x="174" y="490" type="qcurve"/>
+      <point x="228" y="490"/>
+      <point x="260" y="465" type="qcurve"/>
+      <point x="284" y="444"/>
+      <point x="291" y="416" type="qcurve"/>
+      <point x="291" y="416"/>
+      <point x="374" y="415" type="qcurve"/>
+      <point x="350" y="425"/>
+      <point x="350" y="469"/>
+      <point x="368" y="481" type="qcurve"/>
+      <point x="379" y="490" type="line"/>
+      <point x="307" y="490" type="line"/>
+      <point x="307" y="535" type="line"/>
+      <point x="395" y="535" type="line"/>
+      <point x="416" y="535"/>
+      <point x="441" y="562"/>
+      <point x="441" y="581" type="qcurve"/>
+      <point x="441" y="633"/>
+      <point x="398" y="633" type="qcurve"/>
+      <point x="134" y="632" type="line"/>
+      <point x="119" y="632"/>
+      <point x="118" y="628" type="qcurve"/>
+      <point x="118" y="616" type="line"/>
+      <point x="83" y="616" type="line"/>
+      <point x="83" y="723" type="line"/>
+      <point x="400" y="723" type="line"/>
+      <point x="381" y="768"/>
+      <point x="381" y="779" type="qcurve"/>
+      <point x="381" y="813"/>
+      <point x="404" y="844" type="qcurve"/>
+      <point x="413" y="854"/>
+      <point x="447" y="872" type="qcurve"/>
+      <point x="476" y="887"/>
+      <point x="482" y="900" type="qcurve"/>
+      <point x="487" y="885"/>
+      <point x="515" y="872" type="qcurve"/>
+      <point x="546" y="856"/>
+      <point x="554" y="846" type="qcurve"/>
+      <point x="575" y="819"/>
+      <point x="575" y="784" type="qcurve"/>
+      <point x="575" y="740"/>
+      <point x="546" y="732" type="qcurve"/>
+      <point x="542" y="729"/>
+      <point x="531" y="729" type="qcurve"/>
+      <point x="496" y="729"/>
+      <point x="490" y="752" type="qcurve"/>
+      <point x="488" y="759"/>
+      <point x="499" y="775"/>
+      <point x="506" y="775" type="qcurve"/>
+      <point x="517" y="775"/>
+      <point x="529" y="766"/>
+      <point x="528" y="757" type="qcurve"/>
+      <point x="528" y="748"/>
+      <point x="532" y="748" type="qcurve"/>
+      <point x="544" y="748"/>
+      <point x="544" y="761" type="qcurve"/>
+      <point x="544" y="802"/>
+      <point x="490" y="802" type="qcurve" name="hr04"/>
+      <point x="426" y="802"/>
+      <point x="426" y="748" type="qcurve"/>
+      <point x="426" y="725" type="line"/>
+      <point x="460" y="716"/>
+      <point x="479" y="680" type="qcurve"/>
+      <point x="497" y="648"/>
+      <point x="497" y="612" type="qcurve"/>
+      <point x="497" y="565"/>
+      <point x="453" y="501"/>
+      <point x="414" y="493" type="qcurve"/>
+      <point x="422" y="485"/>
+      <point x="431" y="480" type="qcurve"/>
+      <point x="449" y="466"/>
+      <point x="449" y="426"/>
+      <point x="427" y="416" type="qcurve"/>
+      <point x="480" y="416" type="line"/>
+    </contour>
+    <contour>
+      <point x="576" y="-74" type="qcurve"/>
+      <point x="576" y="-151"/>
+      <point x="528" y="-211" type="qcurve"/>
+      <point x="488" y="-261"/>
+      <point x="420" y="-290" type="qcurve"/>
+      <point x="340" y="-317" type="line"/>
+      <point x="292" y="-334"/>
+      <point x="285" y="-348" type="qcurve"/>
+      <point x="278" y="-333"/>
+      <point x="224" y="-317" type="qcurve"/>
+      <point x="141" y="-291" type="line"/>
+      <point x="3" y="-230"/>
+      <point x="3" y="-88" type="qcurve"/>
+      <point x="3" y="-63"/>
+      <point x="10" y="-36" type="qcurve"/>
+      <point x="16" y="-9"/>
+      <point x="27" y="-9" type="qcurve"/>
+      <point x="55" y="-9" type="line"/>
+      <point x="67" y="-9"/>
+      <point x="67" y="-37"/>
+      <point x="43" y="-37"/>
+      <point x="43" y="-23" type="qcurve" name="hr05"/>
+      <point x="43" y="-21"/>
+      <point x="45" y="-17" type="qcurve"/>
+      <point x="25" y="-17"/>
+      <point x="25" y="-33" type="qcurve"/>
+      <point x="25" y="-134"/>
+      <point x="115" y="-180" type="qcurve"/>
+      <point x="181" y="-213"/>
+      <point x="283" y="-213" type="qcurve"/>
+      <point x="372" y="-213"/>
+      <point x="445" y="-183" type="qcurve" name="hr06"/>
+      <point x="556" y="-135"/>
+      <point x="556" y="-40" type="qcurve"/>
+      <point x="556" y="-9"/>
+      <point x="536" y="-9" type="qcurve"/>
+      <point x="537" y="-11"/>
+      <point x="537" y="-15" type="qcurve"/>
+      <point x="537" y="-29"/>
+      <point x="513" y="-29"/>
+      <point x="513" y="-1"/>
+      <point x="525" y="-1" type="qcurve"/>
+      <point x="551" y="-1" type="line"/>
+      <point x="564" y="-1"/>
+      <point x="570" y="-28" type="qcurve"/>
+      <point x="576" y="-49"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="-327" width="-21" />
+      <hstem pos="-213" width="-20" />
+      <hstem pos="12" width="-21" />
+      <hstem pos="160" width="202" />
+      <hstem pos="378" width="69" />
+      <hstem pos="490" width="142" />
+      <hstem pos="723" width="79" />
+      <hstem pos="900" width="-20" />
+      <vstem pos="3" width="22" />
+      <vstem pos="83" width="40" />
+      <vstem pos="381" width="45" />
+      <vstem pos="441" width="56" />
+      <vstem pos="556" width="20" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="-327" width="-21" />
+      <hstem pos="-213" width="-20" />
+      <hstem pos="20" width="-21" />
+      <hstem pos="160" width="202" />
+      <hstem pos="378" width="69" />
+      <hstem pos="490" width="142" />
+      <hstem pos="723" width="79" />
+      <hstem pos="900" width="-20" />
+      <vstem pos="3" width="22" />
+      <vstem pos="83" width="40" />
+      <vstem pos="381" width="45" />
+      <vstem pos="479" width="73" />
+      <vstem pos="556" width="20" />
+    </hintset>
+    <hintset pointTag="hr03">
+      <hstem pos="-327" width="-21" />
+      <hstem pos="-213" width="-20" />
+      <hstem pos="20" width="-21" />
+      <hstem pos="160" width="202" />
+      <hstem pos="415" width="75" />
+      <hstem pos="535" width="97" />
+      <hstem pos="723" width="79" />
+      <hstem pos="900" width="-20" />
+      <vstem pos="3" width="22" />
+      <vstem pos="83" width="40" />
+      <vstem pos="381" width="45" />
+      <vstem pos="441" width="56" />
+      <vstem pos="544" width="32" />
+    </hintset>
+    <hintset pointTag="hr04">
+      <hstem pos="-327" width="-21" />
+      <hstem pos="-213" width="-20" />
+      <hstem pos="20" width="-21" />
+      <hstem pos="160" width="202" />
+      <hstem pos="378" width="69" />
+      <hstem pos="490" width="142" />
+      <hstem pos="723" width="79" />
+      <hstem pos="900" width="-20" />
+      <vstem pos="3" width="22" />
+      <vstem pos="83" width="40" />
+      <vstem pos="381" width="45" />
+      <vstem pos="441" width="56" />
+      <vstem pos="544" width="32" />
+    </hintset>
+    <hintset pointTag="hr05">
+      <hstem pos="-327" width="-21" />
+      <hstem pos="-213" width="-20" />
+      <hstem pos="20" width="-21" />
+      <hstem pos="285" width="77" />
+      <hstem pos="378" width="69" />
+      <hstem pos="490" width="142" />
+      <hstem pos="723" width="79" />
+      <hstem pos="900" width="-20" />
+      <vstem pos="3" width="22" />
+      <vstem pos="83" width="40" />
+      <vstem pos="381" width="45" />
+      <vstem pos="479" width="73" />
+      <vstem pos="556" width="20" />
+    </hintset>
+    <hintset pointTag="hr06">
+      <hstem pos="-327" width="-21" />
+      <hstem pos="-213" width="-20" />
+      <hstem pos="20" width="-21" />
+      <hstem pos="160" width="202" />
+      <hstem pos="378" width="69" />
+      <hstem pos="490" width="142" />
+      <hstem pos="723" width="79" />
+      <hstem pos="900" width="-20" />
+      <vstem pos="3" width="22" />
+      <vstem pos="83" width="40" />
+      <vstem pos="381" width="45" />
+      <vstem pos="441" width="56" />
+      <vstem pos="544" width="32" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
